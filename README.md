@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm TheQarden 👋
 
-<!--
-**TheQarden/theqarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Game Server Developer from Kazakhstan 🇰🇿
 
-Here are some ideas to get you started:
+I build backend systems, game servers, applications and experimental projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 I like programming and backend development
+- 🧠 Interested in systems, game servers and APIs
+- 🛠️ I prefer building working projects over theory
+- 🌍 Creating indie apps and online game projects
+- ⚡ Always testing and trying new ideas
+- 🐧 Use Ubuntu 24.04 VPS for backend hosting and game servers
+- 📊 Also interested in project management and team coordination
+
+---
+
+## 🧰 Languages & Skills
+
+### Strong Experience
+- Lua (Game Guardian / AndLua+)
+- Python
+- C#
+
+### Web / Backend
+- JavaScript (Web / Sites / APIs)
+- Node.js (Backend, APIs, server-side logic)
+
+### Intermediate
+- HTML / CSS
+- Frida (Android instrumentation / reverse engineering)
+
+### Learning / Exploring
+- Advanced backend architecture
+- Networking & server systems
+- DevOps (Linux, deployment)
+
+---
+
+## 📦 Projects
+
+- Indus Brawl (Online Game Server)
+- Platinum Brawl (Co-owner / Deputy Owner)
+- Old Brawl (Online)
+- DBMOD1
+- FlexLand MCBE
+- Helper Game AI
+- DBMED Directory
+- Game tools & scripts
+
+---
+
+## 📫 Contact
+
+- Telegram: @theqarden_CEO
+
+---
+
+## ⚡ Fun Fact
+
+I like building systems that actually run and evolve over time — especially game servers and backend infrastructure.
