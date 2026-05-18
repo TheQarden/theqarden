@@ -45,7 +45,6 @@ I build backend systems, game servers, applications and experimental projects.
 - Indus Brawl (Online Game Server)
 - Platinum Brawl (Co-owner / Deputy Owner)
 - Old Brawl (Online)
-- DBMOD1
 - FlexLand (MCBE)
 - Helper Game AI
 - DBMED Directory
