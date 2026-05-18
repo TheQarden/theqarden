@@ -13,7 +13,7 @@ I build backend systems, game servers, applications and experimental projects.
 - 🛠️ I prefer building working projects over theory
 - 🌍 Creating indie apps and online game projects
 - ⚡ Always testing and trying new ideas
-- 🐧 Use Ubuntu 24.04 VPS for backend hosting and game servers
+- 🐧 I use it Ubuntu 24.04 VPS for backend hosting and game servers
 - 📊 Also interested in project management and team coordination
 
 ---
