@@ -8,7 +8,7 @@ I build backend systems, game servers, applications and experimental projects.
 
 ---
 
-# 🚀 About Me
+# ℹ️ About Me
 
 - 💻 I like programming and backend development
 - 🧠 Interested in systems, game servers and APIs
