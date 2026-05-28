@@ -2,60 +2,77 @@
 
 Backend / Game Server Developer from Kazakhstan 🇰🇿
 
+> 👑 Owner & Lead Developer of DBMOD1 Development
+
 I build backend systems, game servers, applications and experimental projects.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 I like programming and backend development
 - 🧠 Interested in systems, game servers and APIs
 - 🛠️ I prefer building working projects over theory
 - 🌍 Creating indie apps and online game projects
 - ⚡ Always testing and trying new ideas
-- 🐧 I use it Ubuntu 24.04 VDS for backend hosting and game servers
-- 📊 Also interested in project management and team coordination
+- 🐧 Using Ubuntu 24.04 VDS for backend hosting and game servers
+- 📊 Interested in project management and team coordination
+- 👑 Founder, Owner and Main Developer of DBMOD1 Development
 
 ---
 
-## 🧰 Languages & Skills
+# 🧰 Languages & Skills
 
-### Strong Experience
-- Lua (Game Guardian / AndLua+)
-- Python
-- C#
+## 💪 Strong Experience
 
-### Web / Backend
-- JavaScript (Web / Sites / APIs)
-- Node.js (Backend, APIs, server-side logic)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Intermediate
-- HTML / CSS
-- Frida (Android instrumentation / reverse engineering)
+---
 
-### Learning / Exploring
+## 🌐 Web / Backend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 🛠 Intermediate
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-000000?style=for-the-badge)
+
+---
+
+## 📚 Learning / Exploring
+
 - Advanced backend architecture
 - Networking & server systems
 - DevOps (Linux, deployment)
 
 ---
 
-## 📦 Projects
+# 📦 Projects
 
-- FlexLand (MCBE)
-- Helper Game AI
-- DBMED Directory
-- EliteTon AI
-- Game tools & scripts
+```txt
+📁 FlexLand (MCBE)
+📁 Helper Game AI
+📁 DBMED Directory
+📁 EliteTon AI
+📁 Game tools & scripts
+```
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 - Telegram: @theqarden_CEO
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
-I like building systems that actually run and evolve over time — especially game servers and backend infrastructure.
+> I like building systems that actually run and evolve over time —
+> especially game servers and backend infrastructure.
