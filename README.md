@@ -74,5 +74,5 @@ I build backend systems, game servers, applications and experimental projects.
 
 # ⚡ Fun Fact
 
-> I like building systems that actually run and evolve over time —
+> I like building systems that actually run and evolve over time -
 > especially game servers and backend infrastructure.
