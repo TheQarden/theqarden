@@ -18,6 +18,7 @@ I build backend systems, game servers, applications and experimental projects.
 - 🐧 Using Ubuntu 24.04 VDS for backend hosting and game servers
 - 📊 Interested in project management and team coordination
 - 👑 Founder, Owner and Main Developer of DBMOD1 Development
+- 👑 Former Lead Developer and Owner of the Indus Brawl project
 
 ---
 
