@@ -70,6 +70,7 @@ I build backend systems, game servers, applications and experimental projects.
 # 📫 Contact
 
 - Telegram: @theqarden_CEO
+- 🔗 about.me: [about.me/theqarden](https://about.me/theqarden)
 
 ---
 
