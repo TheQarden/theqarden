@@ -70,11 +70,7 @@ I build backend systems, game servers, applications and experimental projects.
 # 📫 Contact
 
 - Telegram: @theqarden_CEO
-[
-
-![about.me](https://img.shields.io/badge/about.me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)
-
-](https://about.me/theqarden)
+- 🔗 about.me: [about.me/theqarden](https://about.me/theqarden)
 
 ---
 
